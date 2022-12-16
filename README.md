@@ -12,7 +12,7 @@
 Projeto realizado para estudo e aperfeiçoamento de minhas habilidades, consiste em um landing page responsivo e nos desafia a fazer um menu hamburguer para tela de tablet e mobile, também pude realizar uma pequena animação de downarrow.
 
 
-## Layouy desktop
+## Layout desktop
 <br>
 
 [<img src=./src/images/animationdesktop-landing.gif/>]
